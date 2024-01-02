@@ -23,5 +23,6 @@ Print head control board designed to fit in the mini stealth burner print head. 
 ![Screenshot 2024-01-02 013027](https://github.com/james-carl-git/PicoStealthBurner/assets/78581339/f6b88fba-6347-4b96-8044-a7924675b536)
 
 #Version History
+
 v0.1 - Initial prototype
 v0.2 - Replaced the tiny fan mosfets with SOT-23, swapped out logic-level translator, changed non-standard LDO to SOT-23
