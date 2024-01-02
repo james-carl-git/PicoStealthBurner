@@ -17,6 +17,7 @@ Print head control board designed to fit in the mini stealth burner print head. 
 - ADXL345 accelerometer for input shaping calibration
 - 3 neopixels for voron logo
 - neopixel output for part LEDs
+- PCB designed in kicad
 
 ![Screenshot 2024-01-02 012836](https://github.com/james-carl-git/PicoStealthBurner/assets/78581339/1134632e-56fe-4059-9b44-1a5c5d6b602b)
 
